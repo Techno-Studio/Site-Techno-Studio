@@ -17,7 +17,7 @@ $res = mysql_query('SELECT * FROM `news` WHERE `news_id`='.$news_id); //числ
     </div>
     <div class="card-action">
       <p><i class="material-icons left">event</i><?= date("d.m.Y H:i",strtotime($row['news_data'])) ?></p><hr>
-      <button class="btn-floating btn-large waves-effect waves-light green" onclick="history.back()"><i class="material-icons">arrow_back</i></button>
+      <button class="btn-floating btn-large waves-effect waves-light blue-grey darken-2" onclick="history.back()"><i class="material-icons">arrow_back</i></button>
     </div>
 </div>
 </div>
