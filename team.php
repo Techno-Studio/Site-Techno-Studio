@@ -7,7 +7,7 @@
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s2">
-              <img src="/blog/img/image2.png" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+              <img src="/img/image2.png" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s10">
               <span class="black-text">
@@ -22,7 +22,7 @@
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s2">
-              <img src="/blog/img/image1.png" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+              <img src="/img/image1.png" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s10">
               <span class="black-text">
