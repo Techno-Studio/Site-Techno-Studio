@@ -18,7 +18,7 @@
   </div>
  
 <div class="container">
-<?$query = "SELECT * FROM `news`";
+<?$query = "SELECT * FROM `news` ORDER BY `news_data` DESC ";
 $res = mysql_query($query);
 while($row = mysql_fetch_array($res))
 {
