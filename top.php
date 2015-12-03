@@ -22,6 +22,7 @@
         <li><a href="/"><i class="material-icons left">home</i>Главная</a></li>
         <li><a href="/team.php"><i class="material-icons left">group</i>Команда</a></li>
         <li><a href="https://www.youtube.com/channel/UCOUHFohb_UgfrFhQc70B32g" target="_blank"><i class="material-icons left">local_movies</i>Канал</a></li>
+        <li><a href="/login.php"><i class="material-icons left">group</i>Вход</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
